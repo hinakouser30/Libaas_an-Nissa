@@ -1,0 +1,331 @@
+/* section1 */
+
+#section1_title{
+  background-color: #faf3f1; 
+}
+
+.navcolor{
+  background-color:#eb9797 ;
+  margin: 3% 6.5%;
+  padding: 2%;
+  border: 3%;
+  text-align: left;
+  color: white;
+  
+}
+
+.brand{
+  font-size: 3.5rem;
+  font-weight: bolder;
+  font-family:'Carattere', cursive;
+  color: white;
+}
+
+.title-text{
+  margin-top: 70px;
+  text-align: left;
+  padding: 7% 15%;
+  line-height: 1.5;
+  font-family: 'Carattere', cursive;
+  font-weight: bolder;
+  font-size: 70px;
+  color: rgb(141, 139, 14);
+}
+
+.title-img1{
+  margin-top: 300px;
+  margin-left: 30px;
+  width: 190px;
+  height: 250px;
+  position: absolute;
+}
+
+.title-img2{
+  margin-top: 215px;
+  margin-left: 185px;
+  position: absolute;
+  z-index: 1;
+  width: 210px;
+}
+
+.title-img3{
+  margin-top: 125px;
+  margin-left: 350px;
+  z-index: 0;
+  position: absolute;
+}
+
+/* section2 */
+
+#shlogan{
+  background-color: #f0bfa3;
+}
+
+.shlogan-img1{
+  width: 400px;
+  height: 400px;
+  margin: 13% auto;
+  border-radius: 100%;
+}
+
+.shlogan-text{
+  text-align: center;
+  margin: 12% 5%;
+  font-family: 'Alegreya', serif;
+  color: rgb(48, 12, 32);;
+
+}
+
+.shlogan-icon{
+  color: #d4427a;
+  margin-top: 7rem;
+  margin-left: 12rem;
+}
+
+/*  section3 */
+
+#section3{
+  background-color: #eb9797;
+}
+
+.section3-btn{
+  margin: 10%;
+}
+
+.section3-slide{
+  margin: 3%;
+}
+
+.section3-img{
+  margin: 7% 27%;
+  padding: 3%;
+  height: 310px;
+}
+
+.handbags1{
+  margin-top: 15%;
+  padding-bottom: 3%;
+  font-size: 3.5rem;
+  color: #ece1de;
+  font-family: 'Alegreya', serif;
+}
+
+.handbags2{
+  font-weight: bold;
+  font-size: 2rem;
+  color: #ece1de;
+  font-family: 'Alegreya', serif;
+}
+
+.handbags-btn{
+  padding: 5%;
+}
+
+.bag_btn{
+  text-decoration: none;
+  color:brown;
+}
+
+/*--  section4  --*/
+
+#section4{
+ background-color: #f370a2;
+}
+
+.abaya1{
+  margin-top: 15%;
+  font-size: 3.5rem;
+  color: #ece1de;
+  font-family: 'Alegreya', serif;
+}
+
+.abaya2{
+  font-size: 2rem;
+  color: #ece1de;
+  font-family: 'Alegreya', serif;
+}
+
+.abaya-section{
+  margin-left: 7%;
+}
+
+.abaya-section2{
+  margin-left: 5%;
+  margin-top: 5px;
+}
+
+.section4-img{
+  margin: 3% 12%;
+  padding: 3%;
+  height: 290px;
+}
+
+.section4-slide{
+ margin: 2px;
+}
+
+.abaya_btn4c1{
+ text-decoration: none;
+ color: #990d43;
+}
+
+/*--section5--*/
+
+#section5{
+  background-color: #75e46b;
+}
+
+.scarf-section1{
+  margin-right: 5%;
+  margin-top: 5px;
+}
+
+.scarf-section2{
+  margin-left: 7%;
+}
+
+.scarf1{
+  margin-top: 15%;
+  font-size: 3.5rem;
+  color: #ece1de;
+  font-family: 'Alegreya', serif;
+}
+
+.scarf2{
+  font-size: 2rem;
+  color: #ffece6;
+  font-family: 'Alegreya', serif;
+}
+
+.section5-img{
+  margin: 3% 30%;
+  padding: 3%;
+  height: 290px;
+}
+
+.section5-slide{
+  margin: 2px;
+}
+
+.scarf-a{
+  text-decoration:none;
+  color: rgb(179, 111, 34);
+}
+
+/*--section6--*/
+
+#section6{
+background-color: #c287e4;
+}
+
+.section6-img1{
+  margin: 10% 0;
+  margin-left: 35%;
+  width: 300px;
+  height: 250px;
+}
+
+.section6-icon{
+  margin-top: 20%;
+  margin-left: 52%;
+  color:  #d4427a;
+}
+
+.section6-img2{
+  margin: 10% 0;
+  margin-left: 15%;
+  width: 250px;
+  height: 250px;
+
+}
+
+.section6-text{
+  margin-left: 25%;
+  text-align: center;
+  color: #ece1de;
+}
+
+/*--footer--*/
+
+#footer{
+  text-align: center;
+  margin:3% 0 3%;
+}
+
+.sp1{
+  padding: 1% 0.5%; 
+}
+
+
+
+/*--scarf page--*/
+
+.scarf-body{
+ background-color: #f3e2cf;
+}
+
+.column1{
+margin: 3%;
+}
+
+.scarfimg4a{
+  width: 250px;
+  height: 250px;
+}
+
+.scarf-h1{
+  margin: 5% 0 3% 3%;
+  font-family: 'Alegreya', serif;
+  font-weight: bold;
+  color: #990d43;
+}
+
+/*--bag page--*/
+
+.bag-body{
+  background-color: #eecfe9;
+ }
+ 
+ .column4b_btn{
+  margin: 2% 0 6% 5%;
+ }
+ 
+ .column-bag{
+   margin: 5% 0 6% 7%; 
+   width: 250px;
+   height: 250px;
+ }
+ 
+ .bag-h1{
+   margin: 5% 0 3% 3%;
+   font-family: 'Alegreya', serif;
+   font-weight: bold;
+   color: #990d43;
+ }
+
+ /*--abaya page--*/
+
+ .abaya-body{
+   background-color: #ece1de ;
+ }
+
+ .column4c_btn{
+  margin: 2% 0 6% 5%;
+ }
+  
+ .abayaimg4c{
+  width: 250px;
+  height: 350px;
+
+ }
+ 
+ .abaya-h1{
+   margin: 5% 0 3% 3%;
+   font-family: 'Alegreya', serif;
+   font-weight: bold;
+   color: #990d43;
+ }
+
+ .column-ab{
+  margin: 5% 0 6% 7%; 
+}
